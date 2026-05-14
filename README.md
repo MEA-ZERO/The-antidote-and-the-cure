@@ -37,4 +37,10 @@ Legacy and Reputation Protection
 
 
 
+##### 2
 
+Food and beverage industry
+
+There is 2 major small and big Food and beverage retailers and vendors faces:
+1. The 2 exact same product but with 2 and more different "expire dates", and there's no tracking
+2. Recommendation and Network for independent grocery stores, the ability to swap items (with little to zero demand) with other grocery stores and preventing getting specific items from getting spoiled. Hence reduction of Food Waste past the expire date. 

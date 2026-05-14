@@ -2,8 +2,8 @@
 The Showroom for Real-World Problems [FIXED]
 
 # 1: Cyber Security Cyber Space:
-Let's face it, ** Russians are faster, bolder, better. ** 
-
+**Let's face it, Russians are faster, bolder, better.
+**
 It is not a mistake.
 
 The Russians learn "Bottom Up": malware analysis, vulnerability hunting, and patch analysis. Lab assignments frequently require students to bypass software protections (copy protection, obfuscation) or dissect real-world malware samples to understand their functionality.

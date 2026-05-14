@@ -1,10 +1,11 @@
 # The-antidote-and-the-cure
 The Showroom for Real-World Problems [FIXED]
 
-# 1: Cyber Security
-Cyber Security & Cyber Space:
+# 1: Cyber Security Cyber Space:
 Let's face it, Russians are faster, bolder, better.
+
 It is not a mistake.
+
 The Russians learn "Bottom Up": malware analysis, vulnerability hunting, and patch analysis. Lab assignments frequently require students to bypass software protections (copy protection, obfuscation) or dissect real-world malware samples to understand their functionality.
 
 The Problem is 35% to 50% of of companies installing new fresh cybersecurity measures in the direct aftermath of a cyber incident.

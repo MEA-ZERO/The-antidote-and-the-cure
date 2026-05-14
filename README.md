@@ -2,7 +2,7 @@
 The Showroom for Real-World Problems [FIXED]
 
 # 1: Cyber Security Cyber Space:
-Let's face it, Russians are faster, bolder, better.
+Let's face it, ** Russians are faster, bolder, better. ** 
 
 It is not a mistake.
 
